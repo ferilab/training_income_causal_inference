@@ -14,4 +14,4 @@ re75 = Real earnings in 1975 (pre-treatment): Another pre-treatment income measu
 re78 = Real earnings in 1978 (post-treatment): The outcome variable. It measures how much a person earned after the job training, used to assess the program’s effect.
 
 # Package content
-This package includes a nootbook (in dev folder), the dataset in data folder, and the callable python code in src folder.
+This package includes a nootbok (in dev folder), the dataset in data folder, and the callable python code in src folder.
